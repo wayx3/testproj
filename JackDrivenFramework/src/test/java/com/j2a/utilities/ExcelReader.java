@@ -495,7 +495,7 @@ public class ExcelReader {
 	}
 		
 	
-	// to run this on stand alone
+	// to run this on stand alone (test)
 	public static void main(String[] arg) throws IOException{
 		
 		
