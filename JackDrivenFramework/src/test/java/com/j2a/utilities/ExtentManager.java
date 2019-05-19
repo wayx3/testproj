@@ -20,7 +20,7 @@ public class ExtentManager {
 			
 		}
 		
-		return extent; //github push
+		return extent;
 	}
 	
 }
