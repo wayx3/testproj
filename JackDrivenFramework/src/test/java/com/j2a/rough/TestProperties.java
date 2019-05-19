@@ -12,7 +12,7 @@ public class TestProperties {
 	
 	public static void main(String[] Args) throws IOException {
 		
-		
+		//test
 		System.out.println(System.getProperty("user.dir"));
 		
 		Properties config = new Properties();
